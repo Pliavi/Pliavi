@@ -18,14 +18,14 @@ Sou um entusiasta de tecnologia apaixonado por programação, música e explora�
 
 ### Estatísticas:
 
-<table style="width: 100%;">
-  <tr>
-    <td style="width: 50%;">
+<table style="width: 100%; border: 0;">
+  <tr style="border: 0;">
+    <td style="width: 50%;border:0;">
       <a href="https://github.com/Pliavi">
         <img src="https://github-readme-stats.vercel.app/api?username=Pliavi&show_icons=true&theme=dark" alt="Estatísticas do GitHub" style="width: 100%;">
       </a>
     </td>
-    <td style="width: 50%;">
+    <td style="width: 50%;border:0;">
       <a href="https://osu.ppy.sh/users/605701">
         <img src="https://osu-sig.vercel.app/card?user=pliavi&mode=std&lang=en&blur=6&round_avatar=true&animation=true&w=467&h=272&flop=true&skills=true&skillmemory=true&skilltags=false" alt="Estatísticas do Osu!" style="width: 100%;">
       </a>
