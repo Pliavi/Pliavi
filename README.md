@@ -23,7 +23,7 @@ Sinta-se à vontade para explorar meus projetos e entrar em contato para colabor
 
   <td style="width: 50%;border:0; vertical-align: top">
 
-<img src="./photo.jpeg" alt="Foto de Vitor Silvério" style="width: 100%;">
+Something will be added here soon 😉
 
   </td>
 
