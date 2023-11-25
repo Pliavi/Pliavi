@@ -21,7 +21,7 @@ Sinta-se à vontade para explorar meus projetos e entrar em contato para colabor
 <table style="width: 100%; border: 0">
   <tr style="border: 0;">
 
-  <td style="width: 30%;border:0; vertical-align: top"><img src="https://api.daily.dev/devcards/8dec65898c794e2ba376ef022dee9f4e.png?r=thg" height="400"/></td>
+  <td style="width: 30%;border:0; vertical-align: top"><img src="https://api.daily.dev/devcards/8dec65898c794e2ba376ef022dee9f4e.png?r=thg" width="300"/></td>
 
   <td style="width: 70%;border:0">
 
