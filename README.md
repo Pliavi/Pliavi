@@ -23,7 +23,8 @@ Sinta-se à vontade para explorar meus projetos e entrar em contato para colabor
 
   <td style="width: 50%;border:0; vertical-align: top">
 
-Something will be added here soon 😉
+![Captura de tela de 2023-11-25 11-06-10](https://github.com/Pliavi/Pliavi/assets/5985423/32e0ca1c-e0eb-4f03-95fd-58eb6f708c40)
+
 
   </td>
 
