@@ -61,10 +61,10 @@ Sinta-se à vontade para explorar meus projetos e entrar em contato para colabor
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Pliavi&show_icons=true&theme=dark" alt="Estatísticas do GitHub" style="width: 100%;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Pliavi&show_icons=true&theme=light" alt="Estatísticas do GitHub" style="width: 100%;">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pliavi&layout=compact&theme=dark" alt="Estatísticas do GitHub" style="width: 100%; heigth: 100%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pliavi&layout=compact&theme=light" alt="Estatísticas do GitHub" style="width: 100%; heigth: 100%">
     </td>
   </tr>
 </table>
