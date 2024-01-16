@@ -42,14 +42,13 @@ Sinta-se à vontade para explorar meus projetos e entrar em contato para colabor
 ![Godot](https://img.shields.io/badge/Godot-478CBF?logo=Godot%20Engine&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=Yarn&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=Visual%20Studio%20Code&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch-1793D1?logo=Arch%20Linux&logoColor=white)
+![Arch](https://img.shields.io/badge/nixos-5277C3?logo=NixOS&logoColor=white)
 
 # Currently Learning
 
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=Rust&logoColor=white)
-![NeoVim](https://img.shields.io/badge/NeoVim-57A143?logo=Neovim&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/Hyprland-1a1a2e?logo=Drupal&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=Angular&logoColor=white)
+![Rust](https://img.shields.io/badge/Golang-00ADD8?logo=Go&logoColor=white)
 
   </td>
 
