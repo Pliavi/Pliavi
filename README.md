@@ -25,33 +25,85 @@ Sinta-se à vontade para explorar meus projetos e entrar em contato para colabor
 
   <td style="width: 70%;border:0">
 
-# Contact me on
+## Contact me on
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pliavi)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=Discord&logoColor=white)](https://discord.com/users/235088799074441472)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=Telegram&logoColor=white)](https://t.me/Pliavi)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pliavi)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Pliavi)
 
-# My Stack
+## My Stack
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=Dart&logoColor=white)
-![Typescript](https://img.shields.io/badge/Typescript-3178C6?logo=Typescript&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=Laravel&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=Vue.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?logo=Tailwind%20CSS&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?logo=Godot%20Engine&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=Yarn&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=Visual%20Studio%20Code&logoColor=white)
-![Arch](https://img.shields.io/badge/nixos-5277C3?logo=NixOS&logoColor=white)
+#### Mobile
 
-# Currently Learning
+![Dart](https://img.shields.io/badge/Dart-0D6292?&style=for-the-badge&logo=Dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-0468D7?&style=for-the-badge&logo=flutter&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?&style=for-the-badge&logo=Capacitor&logoColor=white)
 
-![Rust](https://img.shields.io/badge/Rust-000000?logo=Rust&logoColor=white)
-![Hyprland](https://img.shields.io/badge/Hyprland-1a1a2e?logo=Drupal&logoColor=white)
-![Rust](https://img.shields.io/badge/Golang-00ADD8?logo=Go&logoColor=white)
+#### Frontend
 
-  </td>
+![Typescript](https://img.shields.io/badge/Typescript-3178C6?&style=for-the-badge&logo=Typescript&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-3FB27F?&style=for-the-badge&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-087EA4?&style=for-the-badge&logo=react&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?&style=for-the-badge&logo=Tailwind%20CSS&logoColor=white)
 
+#### Backend
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?&style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?&style=for-the-badge&logo=Laravel&logoColor=white)
+
+#### Tools
+
+![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?&style=for-the-badge&logo=manjaro&logoColor=white)
+![Gnome](https://img.shields.io/badge/Gnome-4A86CF?&style=for-the-badge&logo=Gnome&logoColor=white)
+![Starship](https://img.shields.io/badge/Starship-DD0B78?&style=for-the-badge&logo=starship&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?&style=for-the-badge&logo=Godot%20Engine&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-CA8A04?&style=for-the-badge&logo=bruno&logoColor=white)
+
+## Currently Learning
+
+![Astro](https://img.shields.io/badge/Astro-FF5D00?&style=for-the-badge&logo=astro&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?&style=for-the-badge&logo=Go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?&style=for-the-badge&logo=kotlin&logoColor=white)
+
+## Crypto Wallets
+
+<table style="width: 100%; border: 0;">
+  <tr style="border: 0;">
+    <td style="border: 0; vertical-align: bottom;">
+      <img src="https://img.shields.io/badge/Sol:-9945FF?&style=for-the-badge&logo=solana&logoColor=white" alt="Solana" />
+    </td>
+    <td style="border: 0; vertical-align: top">
+      <code>HGMHPkFQ6piXH1RXuMh5Greodg17jxJZbwYq8RRwSvmy</code>
+    </td>
+  </tr>
+  <tr style="border: 0;">
+    <td style="border: 0; vertical-align: bottom;">
+      <img src="https://img.shields.io/badge/Pol:-7B3FE4?&style=for-the-badge&logo=polygon&logoColor=white" alt="Polygon"/>
+    </td>
+    <td style="border: 0; vertical-align: top">
+      <code>0xe36747525a00C1ACB742F0a3E6Bf973C6D0f54FD</code>
+    </td>
+  </tr>
+
+  <tr style="border: 0;">
+    <td style="border: 0; vertical-align: bottom;">
+      <img src="https://img.shields.io/badge/BTC:-F7931A?&style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin"/>
+    </td>
+    <td style="border: 0; vertical-align: top">
+      <code>bc1qt4l34qe6mknawa42dknxnetzut3q3p0ht2urmz</code>
+    </td>
+  </tr>
+
+  <tr style="border: 0;">
+    <td style="border: 0; vertical-align: bottom;">
+      <img src="https://img.shields.io/badge/ETH:-3C3C3D?&style=for-the-badge&logo=bitcoin&logoColor=white" alt="Ethereum"/>
+    </td>
+    <td style="border: 0; vertical-align: top">
+      <code>0xe36747525a00C1ACB742F0a3E6Bf973C6D0f54FD</code>
+    </td>
+  </tr>
+</table>
+
+</td>
 </tr>
 </table>
 
