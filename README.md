@@ -2,8 +2,8 @@
   <tr  valign="top">
 
   <td width="300">
-    <a src="https://app.daily.dev/pliavi">
-      <img src="https://api.daily.dev/devcards/8dec65898c794e2ba376ef022dee9f4e.png?r=thg" width="300"/>
+    <a href="https://app.daily.dev/pliavi">
+      <img src="https://api.daily.dev/devcards/v2/D6qcUwvNW.png?type=default&r=aeq" width="356" alt="Vitor "Pliavi" Silvério's Dev Card"/>
     </a>
   
 ## Contact me on
