@@ -1,6 +1,6 @@
 <table >
   <tr  valign="top">
-  <td width="300">
+  <td width="300" align="center">
 
 ## Contact me on
 
@@ -10,9 +10,9 @@
   <a href="https://app.daily.dev/pliavi">
     <img src="https://api.daily.dev/devcards/v2/D6qcUwvNW.png?type=default&r=aeq" width="300" alt="Vitor "Pliavi" Silvério's Dev Card"/>
   </a>
-    
-  
-<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pliavi&layout=compact&theme=light" alt="Estatísticas do GitHub">
+
+
+<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pliavi&layout=compact&theme=light&hide_border=true" alt="Estatísticas do GitHub">
 
   </td>
 
