@@ -1,18 +1,18 @@
 <table >
   <tr  valign="top">
+  <td width="300">
 
-  <td width="356">
-    <a href="https://app.daily.dev/pliavi">
-      <img src="https://api.daily.dev/devcards/v2/D6qcUwvNW.png?type=default&r=aeq" width="356" alt="Vitor "Pliavi" Silvério's Dev Card"/>
-    </a>
-    
-  
 ## Contact me on
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pliavi)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Pliavi)
 
-<img width="356" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pliavi&layout=compact&theme=light" alt="Estatísticas do GitHub">
+  <a href="https://app.daily.dev/pliavi">
+    <img src="https://api.daily.dev/devcards/v2/D6qcUwvNW.png?type=default&r=aeq" width="300" alt="Vitor "Pliavi" Silvério's Dev Card"/>
+  </a>
+    
+  
+<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pliavi&layout=compact&theme=light" alt="Estatísticas do GitHub">
 
   </td>
 
