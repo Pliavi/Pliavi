@@ -1,8 +1,10 @@
-<table style="width: 100%; border: 0">
+<table >
   <tr  valign="top">
 
-  <td style="width: 30%; min-width: 300px;border:0; vertical-align: top"><a src="https://app.daily.dev/pliavi">
-    <img src="https://api.daily.dev/devcards/8dec65898c794e2ba376ef022dee9f4e.png?r=thg" width="300"/></a>
+  <td width="300">
+    <a src="https://app.daily.dev/pliavi">
+      <img src="https://api.daily.dev/devcards/8dec65898c794e2ba376ef022dee9f4e.png?r=thg" width="300"/>
+    </a>
   
 ## Contact me on
 
@@ -11,7 +13,7 @@
 
   </td>
 
-  <td style="width: 70%;border:0">
+  <td >
 
 ## Hello, i'm Vitor "Pliavi" Silvério! 👋
 
