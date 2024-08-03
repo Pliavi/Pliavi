@@ -30,6 +30,7 @@ I am an enthusiast of technology passionate about programming, music, and explor
 #### Frontend
 
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?&style=for-the-badge&logo=Typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?&style=for-the-badge&logo=vite&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-3FB27F?&style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-087EA4?&style=for-the-badge&logo=react&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?&style=for-the-badge&logo=Tailwind%20CSS&logoColor=white)
@@ -43,6 +44,7 @@ I am an enthusiast of technology passionate about programming, music, and explor
 
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?&style=for-the-badge&logo=manjaro&logoColor=white)
 ![Gnome](https://img.shields.io/badge/Gnome-4A86CF?&style=for-the-badge&logo=Gnome&logoColor=white)
+![Nushell](https://img.shields.io/badge/Nushell-4E9A06?&style=for-the-badge&logo=Nushell&logoColor=white)
 ![Starship](https://img.shields.io/badge/Starship-DD0B78?&style=for-the-badge&logo=starship&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?&style=for-the-badge&logo=Godot%20Engine&logoColor=white)
 ![Bruno](https://img.shields.io/badge/Bruno-CA8A04?&style=for-the-badge&logo=bruno&logoColor=white)
