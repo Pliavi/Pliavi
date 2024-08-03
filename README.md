@@ -1,34 +1,21 @@
-## Olá, sou Vitor "Pliavi" Silvério! 👋
-
-Sou um entusiasta de tecnologia apaixonado por programação, música e exploração de linguagens de programação. Atualmente, meu foco principal está nas linguagens Dart e Typescript, mas também tenho grande interesse em Rust, Elixir e PHP. Sou versátil em diversos frameworks, incluindo Vue, Laravel e Flutter, mas estou sempre aberto a novas experiências com tecnologias.
-
-### Meus Projetos Destacados:
-
-- **[Linguagem PRT](https://github.com/Pliavi/Linguagem-PRT):** Uma linguagem de programação funcional escrita em Typescript que gera Javascript.
-- **[Creatine Stock Bot](https://github.com/Pliavi/creatine-stock-bot):** Um bot que verifica a disponibilidade de creatina para venda na Growth Suplementos.
-- **[Terminal Tetris Attack](https://github.com/Pliavi/tetris-term-attack):** Desenvolvi um jogo no estilo Tetris Attack em Python, que roda diretamente no terminal.
-- **[Live Runner](https://github.com/Pliavi/live-runner):** Criei um jogo totalmente dentro de uma live na Twitch, usando a engine Godot.
-
-### Interesses:
-
-- Além da programação, tenho paixão pela música e estou aprendendo a tocar gaita. Não sou um mestre nisso, mas estou progredindo! 🎶
-- Gosto de explorar linguagens de programação e entender como são escritas e compiladas.
-- Quanto ao sistema operacional, sou um entusiasta do Linux, e atualmente uso Manjaro e VanillaOS como meus sistemas operacionais principais.
-- Amo jogar Osu! 🥁
-
-Sinta-se à vontade para explorar meus projetos e entrar em contato para colaborações ou apenas para conversar sobre programação, música, gaita, Linux ou jogos! 🕹️
-
 <table style="width: 100%; border: 0">
-  <tr style="border: 0;">
+  <tr  valign="top">
 
-  <td style="width: 30%;border:0; vertical-align: top"><a src="https://app.daily.dev/pliavi"><img src="https://api.daily.dev/devcards/8dec65898c794e2ba376ef022dee9f4e.png?r=thg" width="300"/></a></td>
-
-  <td style="width: 70%;border:0">
-
+  <td style="width: 30%; min-width: 300px;border:0; vertical-align: top"><a src="https://app.daily.dev/pliavi">
+    <img src="https://api.daily.dev/devcards/8dec65898c794e2ba376ef022dee9f4e.png?r=thg" width="300"/></a>
+  
 ## Contact me on
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pliavi)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Pliavi)
+
+  </td>
+
+  <td style="width: 70%;border:0">
+
+## Hello, i'm Vitor "Pliavi" Silvério! 👋
+
+I am an enthusiast of technology passionate about programming, music, and exploration of programming languages. I am versatile in various languages and frameworks and always open to new experiences with new technologies.
 
 ## My Stack
 
@@ -66,38 +53,38 @@ Sinta-se à vontade para explorar meus projetos e entrar em contato para colabor
 
 ## Crypto Wallets
 
-<table style="width: 100%; border: 0;">
-  <tr style="border: 0;">
-    <td style="border: 0; vertical-align: bottom;">
+<table style="width: 100%; ">
+  <tr>
+    <td >
       <img src="https://img.shields.io/badge/Sol:-9945FF?&style=for-the-badge&logo=solana&logoColor=white" alt="Solana" />
     </td>
-    <td style="border: 0; vertical-align: top">
+    <td >
       <code>HGMHPkFQ6piXH1RXuMh5Greodg17jxJZbwYq8RRwSvmy</code>
     </td>
   </tr>
-  <tr style="border: 0;">
-    <td style="border: 0; vertical-align: bottom;">
+  <tr>
+    <td >
       <img src="https://img.shields.io/badge/Pol:-7B3FE4?&style=for-the-badge&logo=polygon&logoColor=white" alt="Polygon"/>
     </td>
-    <td style="border: 0; vertical-align: top">
+    <td >
       <code>0xe36747525a00C1ACB742F0a3E6Bf973C6D0f54FD</code>
     </td>
   </tr>
 
-  <tr style="border: 0;">
-    <td style="border: 0; vertical-align: bottom;">
+  <tr>
+    <td >
       <img src="https://img.shields.io/badge/BTC:-F7931A?&style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin"/>
     </td>
-    <td style="border: 0; vertical-align: top">
+    <td >
       <code>bc1qt4l34qe6mknawa42dknxnetzut3q3p0ht2urmz</code>
     </td>
   </tr>
 
-  <tr style="border: 0;">
-    <td style="border: 0; vertical-align: bottom;">
-      <img src="https://img.shields.io/badge/ETH:-3C3C3D?&style=for-the-badge&logo=bitcoin&logoColor=white" alt="Ethereum"/>
+  <tr>
+    <td >
+      <img src="https://img.shields.io/badge/ETH:-3C3C3D?&style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
     </td>
-    <td style="border: 0; vertical-align: top">
+    <td >
       <code>0xe36747525a00C1ACB742F0a3E6Bf973C6D0f54FD</code>
     </td>
   </tr>
