@@ -54,13 +54,12 @@ I am an enthusiast of technology passionate about programming, music, and explor
 #### Tools
 
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?&style=for-the-badge&logo=manjaro&logoColor=white)
-![Vanilla](https://img.shields.io/badge/Vanilla-FFBF48?&style=for-the-badge&logo=linux&logoColor=2c2c2c)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?&style=for-the-badge&logo=Fedora&logoColor=white)
 ![Gnome](https://img.shields.io/badge/Gnome-4A86CF?&style=for-the-badge&logo=Gnome&logoColor=white)
 ![Nushell](https://img.shields.io/badge/Nushell-4E9A06?&style=for-the-badge&logo=Nushell&logoColor=white)
 ![Starship](https://img.shields.io/badge/Starship-DD0B78?&style=for-the-badge&logo=starship&logoColor=white)
-![Ni](https://img.shields.io/badge/Ni-EAEAF0?&style=for-the-badge&logoColor=gray)
 ![PNPM](https://img.shields.io/badge/PNPM-F69220?&style=for-the-badge&logo=pnpm&logoColor=white)
-![Bruno](https://img.shields.io/badge/Bruno-CA8A04?&style=for-the-badge&logo=bruno&logoColor=white)
+![httpie](https://img.shields.io/badge/httpie-363636?&style=for-the-badge&logo=httpie&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?&style=for-the-badge&logo=Godot%20Engine&logoColor=white)
 
 ## Currently Learning
